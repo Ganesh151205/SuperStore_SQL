@@ -111,6 +111,6 @@ Writing complex SQL queries
 Extracting business insights from data
 Building portfolio-ready SQL projects
 Using GitHub for documentation and version control
-🙌 Author
 
+🙌 Author
 Ganesh
