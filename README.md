@@ -164,7 +164,7 @@ Inventory tracking
 
 Step 1 — Clone Repository
 
-git clone https://github.com/your-username/Sales-SQL-Analysis.git
+git clone https://github.com/Ganesh151205/SuperStore_SQL.git
 
 Step 2 — Open MySQL / SQL Workbench
 
